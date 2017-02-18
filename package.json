@@ -6,7 +6,7 @@
     "build": "webpack --config webpack.config.js",
     "test": "webpack-dev-server --config webpack.config.server.js"
   },
-  "author": "wenchao.li",
+  "author": "axiu",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.22.1",
